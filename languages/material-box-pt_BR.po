@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Material Box\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-29 02:31+0000\n"
+"PO-Revision-Date: 2022-04-29 02:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: material-box"
+
+#. Description of the plugin
+msgid ""
+"A simple and easy material design implementation of the Lightbox plugin "
+"using Materialize."
+msgstr ""
+"Uma implementação de material design simples e fácil do plugin Lightbox "
+"usando Materialize."
+
+#: material-box.php:61
+msgid "Activate"
+msgstr "Ativação"
+
+#: material-box.php:99
+msgid "Active for all images"
+msgstr "Ativo para todas as imagens"
+
+#: material-box.php:98
+msgid "Active only for class"
+msgstr "Ativo apenas para classe"
+
+#: material-box.php:86
+msgid "class name"
+msgstr "nome da classe"
+
+#: material-box.php:67
+msgid "Configuration"
+msgstr "Configuração"
+
+#: material-box.php:124
+msgid "Default: 200"
+msgstr "Padrão: 200"
+
+#: material-box.php:113
+msgid "Default: 275"
+msgstr "Padrão: 275"
+
+#: tpl/materialbox_main_section.php:2
+msgid "Defining which elements can activate the Lightbox using Materialize."
+msgstr "Definindo quais elementos podem ativar o Lightbox Materialize."
+
+#. Author URI of the plugin
+msgid "https://github.com/williamCarvalho"
+msgstr "https://github.com/williamCarvalho"
+
+#: material-box.php:97
+msgid "I don't want it now!"
+msgstr "Eu não quero isso agora!"
+
+#: material-box.php:108
+msgid "In duration"
+msgstr "Duração da ínicio"
+
+#. Name of the plugin
+#: material-box.php:25 material-box.php:26
+msgid "Material Box"
+msgstr "Material Box"
+
+#: material-box.php:119
+msgid "Out duration"
+msgstr "Duração da saída"
+
+#: material-box.php:88
+msgid "Put here the name of the class to which the effect will be applied."
+msgstr "Coloque aqui o nome da classe à qual o efeito será aplicado."
+
+#: material-box.php:93
+msgid "Query selector"
+msgstr "Query selector"
+
+#: material-box.php:103
+msgid "Select how the effect can be activated."
+msgstr "Selecione como o efeito pode ser ativado."
+
+#: material-box.php:82
+msgid "Selector class"
+msgstr "Classe do seletor"
+
+#: tpl/materialbox_config_section.php:2
+msgid "Set configuration options for the Material Box."
+msgstr "Defina as opções de configuração para a Material Box."
+
+#: material-box.php:114
+msgid "Transition in duration in milliseconds."
+msgstr "Duração do ínicio da transição em milissegundos."
+
+#: material-box.php:125
+msgid "Transition out duration in milliseconds."
+msgstr "Duração do saída da transição em milissegundos."
+
+#. Author of the plugin
+msgid "Will Carvalho"
+msgstr "Will Carvalho"
