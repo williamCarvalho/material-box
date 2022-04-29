@@ -3,7 +3,7 @@ Contributors: william-carvalho
 Requires at least: WordPress 5.9
 Tested up to: WordPress 5.9
 Requires PHP: 7.0
-VersionStable tag: 2.0
+Version: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Tags: materialize, lightbox, material, material-box, media, image
