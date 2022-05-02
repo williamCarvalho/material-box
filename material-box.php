@@ -10,7 +10,6 @@
  * Author URI:        https://github.com/williamCarvalho
  * License:           GPLv3 or later
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
- * Update URI:        
  * Text Domain:       material-box
  * Domain Path:       /languages
  * 
@@ -213,9 +212,9 @@ if (!class_exists('MaterialBoxMain')) {
                 <script>
                     (function($) {
                         $(function() {
-                            $("<?php echo $query_selectors; ?>").not("a img").materialbox({
-                                inDuration: <?php echo $in_duration; ?>,
-                                outDuration: <?php echo $out_duration; ?>
+                            $("<?php echo esc_js($query_selectors); ?>").not("a img").materialbox({
+                                inDuration: <?php echo esc_js($in_duration); ?>,
+                                outDuration: <?php echo esc_js($out_duration); ?>
                             });
                         });
                     })(jQuery);

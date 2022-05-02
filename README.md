@@ -7,7 +7,7 @@ Version: 1.0.0 <br />
 License: GPLv3 or later <br />
 License URI: http://www.gnu.org/licenses/gpl-3.0.html <br />
 Tags: materialize, lightbox, material, material-box, media, image <br />
-Stable tag: trunk <br /> <br />
+Stable tag: 1.0.0 <br /> <br />
 
 Material Box WordPress Plugin, Copyright (C) 2022, Will Carvalho<br />
 Material Box is distributed under the terms of the GNU GPL v3.0 or later.

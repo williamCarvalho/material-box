@@ -1,3 +1,3 @@
 <p class="description">
-    <?php echo $supplimental; ?>
+    <?php echo esc_html($supplimental); ?>
 </p>

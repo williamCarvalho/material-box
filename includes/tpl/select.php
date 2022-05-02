@@ -1,7 +1,11 @@
 <select
-    name="<?php echo $arguments['uid']; ?>"
-    id="<?php echo $arguments['uid']; ?>">
-    <?php foreach ($arguments['options'] as $key => $label) {
-        printf('<option value="%s" %s>%s</option>', $key, selected($value, $key, false), $label);
-    } ?>
+    name="<?php echo esc_attr($arguments['uid']); ?>"
+    id="<?php echo esc_attr($arguments['uid']); ?>">
+    <?php foreach ($arguments['options'] as $key => $label) { ?>
+        <option
+            value="<?php echo esc_attr($key); ?>"
+            <?php echo selected($value, $key, false); ?>>
+            <?php echo esc_html($label); ?>
+        </option>
+    <?php } ?>
 </select>

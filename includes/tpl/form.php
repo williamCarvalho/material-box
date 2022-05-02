@@ -1,6 +1,6 @@
     <div class="wrap">
         <h2>
-            <?php echo $this->page_title; ?>
+            <?php echo esc_html($this->page_title); ?>
         </h2>
 
         <form method="post" action="options.php">

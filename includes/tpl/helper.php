@@ -1,3 +1,3 @@
 <span class="helper">
-    <?php echo $helper; ?>
+    <?php echo esc_html($helper); ?>
 </span>
